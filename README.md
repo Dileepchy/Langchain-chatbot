@@ -21,8 +21,8 @@ A beginner-friendly chatbot app built with **Streamlit** (shiny web interface âœ
 
 ### 1. Clone the Repository ðŸ“‚
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME].git
-cd [YOUR-REPO-NAME]
+git clone https://github.com/Dileepchy/Langchain-chatbot.git
+cd Langchain-chatbot
 ```
 
 *(If this is a single-file app: save the code as `app.py` in a new empty folder!)*
