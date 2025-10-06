@@ -35,9 +35,9 @@ langchain
 langchain-groq
 ```
 
-Install the dependencies via pip:
+Install the dependencies via using uv:
 ```bash
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ### 3. Run the App ▶️
