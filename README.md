@@ -42,7 +42,7 @@ uv add -r requirements.txt
 
 ### 3. Run the App ▶️
 ```bash
-streamlit run app.py
+streamlit run qachatbot.py
 ```
 
 The app will open automatically in your default browser (usually at `http://localhost:8501` 🌐)!
